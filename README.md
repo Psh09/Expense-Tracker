@@ -6,7 +6,7 @@ The **Expense Tracker App** is a web application built using React. It helps use
 ## Preview of Final Output
 Here's a preview of how the application looks:
 
-![Preview of Expense Tracker](images/preview.png)  
+![Preview of Expense Tracker](Preview.png)  
 
 ## Prerequisites and Technologies Used
 To work with or develop this project, the following technologies and prerequisites are required:
@@ -32,7 +32,7 @@ To run the Expense Tracker App locally, follow these steps:
 
 1. **Clone the Repository**: Clone the repository to your local machine.
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Psh09/Expense-Tracker.git
    ```
 
 2. **Install Dependencies**: Navigate to the project folder and install the required dependencies.
